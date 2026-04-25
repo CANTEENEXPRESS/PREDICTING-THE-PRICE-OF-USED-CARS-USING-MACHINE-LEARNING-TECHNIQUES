@@ -1,0 +1,2 @@
+# PREDICTING-THE-PRICE-OF-USED-CARS-USING-MACHINE-LEARNING-TECHNIQUES
+This project developed an automated, data-driven framework for estimating the market value of pre-owned vehicles. By moving away from subjective human appraisal, the system utilizes machine learning to provide objective and high-precision financial insights. The model analyzes over 500,000 unique records to understand complex depreciation patterns
